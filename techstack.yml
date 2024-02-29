@@ -1,0 +1,280 @@
+repo_name: ohimors/npm-scripts-example
+report_id: 99b8b9bc0b2e8d2a1466e8bd6dd6cc50
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:41:40+00:00'
+requested_by: keithamus
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ohimors/npm-scripts-example
+  detection_source: Repo Metadata
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 6.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 0.12.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2015-01-15 22:24:41.000000000 Z
+- name: jade
+  description: A clean
+  package_url: https://www.npmjs.com/jade
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16163/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: karma-browserify
+  description: A fast browserify integration for Karma that handles large projects
+    with ease
+  package_url: https://www.npmjs.com/karma-browserify
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16294/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: karma-cli
+  description: The Karma command line interface
+  package_url: https://www.npmjs.com/karma-cli
+  version: 0.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 0.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: minifyify
+  description: Minify your browserify bundles without losing the sourcemap
+  package_url: https://www.npmjs.com/minifyify
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17912/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: opener
+  description: Opens stuff
+  package_url: https://www.npmjs.com/opener
+  version: 1.4.0
+  license: WTFPL,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16917/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2015-01-15 22:24:41.000000000 Z
+- name: parallelshell
+  description: Invoke multiple commands, running in parallel
+  package_url: https://www.npmjs.com/parallelshell
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17063/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2015-01-15 22:24:41.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.2.8
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
+- name: stylus
+  description: Robust, expressive, and feature-rich CSS superset
+  package_url: https://www.npmjs.com/stylus
+  version: 0.49.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16131/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/ohimors/npm-scripts-example/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Keith Cirkel
+  last_updated_on: 2014-12-08 23:09:19.000000000 Z
